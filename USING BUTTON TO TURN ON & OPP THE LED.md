@@ -3,6 +3,9 @@
 ```
 https://wokwi.com/projects/444855831145634817
 ```
+## using:
+   PA5 -LED
+   PC13 -BUTTON
 ## main.c code:
 ```
 /* USER CODE BEGIN Header */
